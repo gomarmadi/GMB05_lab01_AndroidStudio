@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
             // Основной алгоритм
 
             if (x >= 5){
-                y = (5 * (Math.pow(a,2) + Math.pow(b,2)))/ x - 4;
+                y = (5 * (Math.pow(a,2) + Math.pow(b,2)))/ (x - 4);
             }
             else{
                 y = 6 * a * b - 5 * x;
