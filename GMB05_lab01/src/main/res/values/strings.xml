@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GMB05_lab01</string>
+    <string name="x">X=</string>
+    <string name="b">B=</string>
+    <string name="schet">Посчитать</string>
+    <string name="button_name">Введите цифры и нажмите кнопку посчитать</string>
+    <string name="a">A=</string>
+    <string name="logo">logo</string>
+    <string name="task">task</string>
+</resources>
